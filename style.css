@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: palevioletred;
+}
+h2{
+    text-align: center;
+    color: gray;
+}
+h3{
+    text-align: center;
+    color: palevioletred;
+    font-size: 30px;
+}
+h4{
+    text-align: center;
+    color: rosybrown;
+    font-size: 26px;
+}
+h5{
+    text-align: center;
+    color: salmon;
+    font-size: 22px;
+}
+p{
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+    max-width: 500px;
+    margin:0 auto;
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
